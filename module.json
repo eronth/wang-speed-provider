@@ -1,0 +1,19 @@
+{
+    "name": "wang-speed-provider",
+    "title": "WANG Speed Provider",
+    "description": "Provides Drag Ruler speed settings for Wrath & Glory",
+    "author": "emf",
+    "type": "module",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.9",
+    "dependencies": [{ "name": "drag-ruler" }],
+    "esmodules": ["./wang-speed-provider.js"],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ]
+  }

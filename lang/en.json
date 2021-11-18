@@ -1,0 +1,9 @@
+{
+    "wang-speed-provider": {
+      "speeds": {
+          "standard": "Move",
+          "run": "Run",
+          "sprint": "Sprint"
+        }
+    }
+}
